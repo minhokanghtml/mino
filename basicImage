@@ -1,0 +1,22 @@
+<!doctype html> <!-- basicImage.html-->
+<html><head><meta charset="utf-8"/>
+<meta name="viewport" content="width=device=width,intial-scale=1"/>
+<title> HTML5 이미지 실습</title>
+
+</head>
+<body>
+<figure>
+  <h3> SNS 사이트 </h3>
+  <a href=https://www.google.com>
+   <img src="C:\Users\404\Desktop\images (1)/googlePlus.png" alt="구글"/> <br/>
+   <figcaption>(그림) 구글 링크</figcaption>
+   </a>
+  <a href=https:/www.facebook.com>
+   <img src="C:\Users\404\Desktop\images (1)/facebookOne,png" alt="페이스북"/> <br/>
+   </a>
+  <a href=https://www.twitter.com>
+  <img src="C:\Users\404\Desktop\images (1)/twitterYou.png" alt="트위터"/> <br/>
+  </a>
+</figure>
+</body>
+</html>
